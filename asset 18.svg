@@ -1,0 +1,4 @@
+<svg width="766" height="486" style="position: relative; left: -18px; top: -18px" xmlns="http://www.w3.org/2000/svg" overflow="visible">
+            <g transform="translate(18, 18)">
+            <line x1="457" y1="0" x2="457" y2="50" stroke="#b4c0d7" strokeWidth="1" stroke-dasharray="5,2"/><rect x="450.234375" y="13" width="28.01611328125" height="18" rx="6" ry="6" fill="#373c46"/><text font-size="9px" font-family="sans-serif" fill="white" text-anchor="middle" x="464" y="25">50px</text><line x1="0" y1="250" x2="185" y2="250" stroke="#b4c0d7" strokeWidth="1" stroke-dasharray="5,2"/><rect x="76.234375" y="231" width="33.021484375" height="18" rx="6" ry="6" fill="#373c46"/><text font-size="9px" font-family="sans-serif" fill="white" text-anchor="middle" x="92.5" y="243">185px</text></g>
+        </svg>
